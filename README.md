@@ -1,8 +1,12 @@
 # Hey, I'm Samwane 👋
 
-Marketing & digital commerce student who builds SaaS products and web apps with AI coding assistants.
+Certified in Google Digital Marketing & E-commerce. I build SaaS products and web apps with AI coding assistants.
 
 No CS degree. No bootcamp. Just curiosity, Claude, and a lot of trial and error.
+
+## 🙋 About me
+
+I come from marketing, not engineering. I started building my first SaaS (Copyboost) in late 2025 with zero coding experience, using AI as my co-pilot for every line of code. Today I ship full-stack products, deploy on VPS, and wire up payment systems. I document the whole journey on my blog, bugs included.
 
 ## 🔨 What I'm building
 
@@ -16,7 +20,6 @@ No CS degree. No bootcamp. Just curiosity, Claude, and a lot of trial and error.
 
 ## 🌱 Currently learning
 
-- Google Digital Marketing & E-commerce certification
 - AI agent orchestration (OpenClaw, MCP)
 - SEO and content-driven growth
 
