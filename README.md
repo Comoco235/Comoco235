@@ -59,18 +59,18 @@ $ samwane --focus
 
 ---
 
-## 📊 Stats
+## 📊 Profile
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Comoco235&show_icons=true&hide_border=true&theme=default" alt="stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Comoco235&layout=compact&hide_border=true&theme=default" alt="top langs" height="160" />
+  <img src="https://komarev.com/ghpvc/?username=Comoco235&style=flat&color=blue" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/Comoco235?style=flat&label=Followers" alt="followers" />
+  <img src="https://img.shields.io/github/stars/Comoco235?style=flat&label=Stars" alt="stars" />
 </p>
-
 ---
 
 ## 💬 Connect
 
 - 💼 [LinkedIn](https://linkedin.com/in/samwane)
-- 📫 [à confirmer : email pro ou lien de contact]
+- 📫 [Mail](samwane@copyboost.io)
 
 <p align="center"><i>I ship products, not just code.</i></p>
