@@ -21,7 +21,7 @@ I design, build, and deploy SaaS products on my own, from the first commit to pr
 ## 🚀 What I build
 
 - **[Copyboost](https://copyboost.io)** · AI tool that audits marketing copy across seven psycholinguistic dimensions. Next.js, TypeScript, Supabase, Stripe. Live in production.
-- **[Zovalide](https://zovalide.app)** · [ton one-liner, ex. "White-label social media planning for agencies"]. Next.js, Supabase, Stripe, multi-tenant with custom subdomains.
+- **[Zovalide](https://zovalide.app)** · "White-label social media planning for agencies". Next.js, Supabase, Stripe, multi-tenant with custom subdomains.
 - **[Built With Bugs](https://www.builtwithbugs.com)** · My blog, where I document the real process of building and shipping solo, bugs included.
 - **[OpenClaw Guide](https://github.com/Comoco235/openclaw-guide)** · Deployment guide for running AI agents on a Linux VPS.
 
